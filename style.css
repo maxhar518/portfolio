@@ -227,9 +227,9 @@ nav ul li a:hover::after{
 /* .work:hover img{
     transform: scale(1.1);
 } */
-/* .work:hover .layer{
+.work:hover .layer{
     height: 100%;
-} */
+}
 .btn{
     display: block;
     margin: 50px auto;
