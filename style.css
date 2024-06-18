@@ -323,8 +323,8 @@ nav .fas{
     nav .fas{
         position : absolute; 
         display: block;
-        top: 10px;
-        right: 10px;
+        top: 20px;
+        right: 20px;
         font-size: 25px;
     }
      nav ul{
