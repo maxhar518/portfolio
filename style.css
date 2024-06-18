@@ -321,7 +321,8 @@ nav .fas{
         font-size: 30px;
     }
     nav .fas{
-        display: block;
+/*         position : ;  */
+        display: flex-end;
         font-size: 25px;
     }
      nav ul{
