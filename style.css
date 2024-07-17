@@ -69,7 +69,7 @@ nav ul li a:hover::after{
     padding : auto;
 }
 .about-col-1 img{
-    width: 100%;
+    width: 70%;
     border-radius: 60px;
 }
 .about-col-2{
