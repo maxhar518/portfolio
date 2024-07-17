@@ -44,7 +44,7 @@ nav ul li a:hover::after{
 }
 .header-text{
     display: flex;
-    flex-direction: column;
+    align-items: flex-start; 
     margin-top: 20%;
     font-size: 30px;
 }
