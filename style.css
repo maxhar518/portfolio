@@ -18,10 +18,6 @@ nav{
     justify-content: space-between;
     flex-wrap: wrap;
 }
-.logo{
-    width: 140px;
-}
-
 nav ul li{
     display: inline-block;
     list-style: none;
@@ -70,6 +66,7 @@ nav ul li a:hover::after{
 }
 .about-col-1{
     flex-basis: 35%;
+    padding : auto;
 }
 .about-col-1 img{
     width: 100%;
