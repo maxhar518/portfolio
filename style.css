@@ -59,7 +59,7 @@ nav ul li a:hover::after{
  padding: 10px 0;
  color: #ababab;   
 }
-.about container{
+.container{
     display: flex;
     justify-content: space-between; 
     align-items: flex-start; 
