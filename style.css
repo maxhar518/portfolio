@@ -69,8 +69,12 @@ nav ul li a:hover::after{
     padding : auto;
 }
 .about-col-1 img{
-    width: 70%;
+    width: 75%;
     border-radius: 60px;
+    padding-left: 20%;
+    padding-right: auto;
+    padding-top: 10%;
+    padding-bottom: auto;
 }
 .about-col-2{
     flex-basis: 60%;
