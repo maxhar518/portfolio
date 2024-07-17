@@ -73,7 +73,7 @@ nav ul li a:hover::after{
 }
 .about-col-1 img{
     width: 100%;
-    border-radius: 20px;
+    border-radius: 60px;
 }
 .about-col-2{
     flex-basis: 60%;
