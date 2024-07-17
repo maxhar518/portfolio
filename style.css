@@ -12,11 +12,6 @@ body{
     background-color: #080808;
     color: #fff;
 }
-#header{
-}
-.container{
-    padding: 10px 10%;
-}
 nav{
     display: flex;
     align-items: center;
