@@ -50,6 +50,9 @@ nav ul li a:hover::after{
     font-size: 60px;
     margin-top: 5%;
 }
+.about-col-2 p {
+    font-size: x-large;
+}
 .header-text h1 span{
     color: #ff004f;
 }
